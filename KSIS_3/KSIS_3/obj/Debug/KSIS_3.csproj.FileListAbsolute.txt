@@ -1,0 +1,9 @@
+D:\repos\KSIS_3\KSIS_3\obj\Debug\KSIS_3.csprojAssemblyReference.cache
+D:\repos\KSIS_3\KSIS_3\obj\Debug\KSIS_3.Form1.resources
+D:\repos\KSIS_3\KSIS_3\obj\Debug\KSIS_3.Properties.Resources.resources
+D:\repos\KSIS_3\KSIS_3\obj\Debug\KSIS_3.csproj.GenerateResource.cache
+D:\repos\KSIS_3\KSIS_3\bin\Debug\KSIS_3.exe.config
+D:\repos\KSIS_3\KSIS_3\bin\Debug\KSIS_3.exe
+D:\repos\KSIS_3\KSIS_3\bin\Debug\KSIS_3.pdb
+D:\repos\KSIS_3\KSIS_3\obj\Debug\KSIS_3.exe
+D:\repos\KSIS_3\KSIS_3\obj\Debug\KSIS_3.pdb
